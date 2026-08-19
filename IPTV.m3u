@@ -49,7 +49,6 @@ https://1nyaler.streamhostingcdn.top/stream/37/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
 #EXTINF:-1 tvg-id="ch39" tvg-name="SP 39" group-title="Sports Channel",Sky Sport | Football
 https://1nyaler.streamhostingcdn.top/stream/39/index.m3u8
-
 #EXTINF:-1 tvg-id="ch2" tvg-name="SP 2" group-title="Sports Channel",Rai Sport
 https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
 #EXTINF:-1 tvg-id="ch42" tvg-name="SP 42" group-title="Sports Channel",Rai 1 HD
@@ -140,7 +139,6 @@ https://1nyaler.streamhostingcdn.top/stream/60/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/61/index.m3u8
 #EXTINF:-1 tvg-id="ch62" tvg-name="SP 62" group-title="Sports Channel",SK 1 HD
 https://1nyaler.streamhostingcdn.top/stream/62/index.m3u8
-
 #EXTINF:-1 group-title="Sports Channel",Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
 #EXTINF:-1 group-title="Sports Channel",GLORY Kickboxing 
@@ -155,7 +153,6 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 group-title="Sports Channel",DraftKings Network (1080p)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
-
 #EXTINF:-1 group-title="Sports Channel",FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/international/fightbox-int.png" group-title="Sports Channel",FightBox
@@ -172,3 +169,5 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_dat
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports Channel",IDMANTV
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Z", Other
+https://raw.githubusercontent.com/ahan443/FAST-IPTV/refs/heads/main/z.m3u
